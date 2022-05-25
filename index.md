@@ -23,7 +23,7 @@ Although Text-to-Speech (TTS) has made rapid progress in speech quality at sente
             这世界上有千百种各式各样的死法儿,可你知道最恐怖的死法儿是哪一种吗?我知道……因为此时此刻,我就亲眼见识到了。咕噜噜……一个黑影儿滚到了我的脚下,虽然此刻周围的灯光昏暗阴森,我却依然能清楚的看到那是什么。那是我的同事姜开的脑袋……
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/Recording/indomain.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/Recording/1.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ Although Text-to-Speech (TTS) has made rapid progress in speech quality at sente
             看着姜开张大着嘴,死不瞑目的面容,我先是觉得脖子后面儿凉风嗖嗖直冒,脑门上也见了汗,紧接着,一阵反胃恶心的感觉便从胃里直冲嗓子眼。然而这个时候儿,那种感觉却一下子堵在了脖子里,我想要挪动一下步子,身体也根本无法动弹。
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/Recording/indomain.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/Recording/2.wav"></audio><br>
         </td>
     </tr>  
 </table>
